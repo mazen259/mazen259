@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <!-- <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li> -->
-<li>👨‍💻 Most of my projects are available on <a href="[https://github.com/Spiderpig86](https://github.com/mazen259)">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/mazen259">Github</a>.</li>
 <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
 </ul>
 <h2>🚀 Some Tools I Use</h2>
